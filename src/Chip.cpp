@@ -1,4 +1,4 @@
-//i was having some errors so i just included everything like an insane person
+//i was having some errors so i just included everything like a cool person
 #include "Chip.hpp"
 #include <stdio.h>
 #include <stdlib.h>
